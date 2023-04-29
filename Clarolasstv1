@@ -14,7 +14,7 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv
 https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w566626149.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv 2
-https://api.mp4.to/static/downloads/1980f74b-e457-4c6c-80c9-1895c40cdce9/2023-04-25-03-37-34.m3u8
+https://play.prod.gcp.vix.services/verte-mejor_pt/verte-mejor_pt_3-76/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Canal Mma" tvg-name="Canal Mma" tvg-logo="https://pbs.twimg.com/profile_images/1040380158534971393/ulfd3Hc3_400x400.jpg" group-title="Canais - Esportes",Canal Mma
