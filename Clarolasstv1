@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv HD
-https://1aeccd6c54f4.entrypoint.cloud.wowza.com/app-1L64mqj8/ngrp:b2f351ce_all/playlist.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fe4f4a4c73304a848aedff2873e89cff/chunklist_b4192000.m3u8?p=79&s=1682872153&e=1682872273&h=0e60ebb5f881f7d2d496803f732c4747
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
@@ -12,7 +12,7 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CrsFzugZSyNPJTVEUCJ9c9VxpX8
 #EXTINF:-1 tvg-id="Tnt Esportes 5" tvg-name="Tnt Esportes 5" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 5
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv
-https://1aeccd6c54f4.entrypoint.cloud.wowza.com/app-1L64mqj8/ngrp:b2f351ce_all/playlist.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fe4f4a4c73304a848aedff2873e89cff/chunklist_b4192000.m3u8?p=79&s=1682872153&e=1682872273&h=0e60ebb5f881f7d2d496803f732c4747
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv 2
 https://1aeccd6c54f4.entrypoint.cloud.wowza.com/app-1L64mqj8/ngrp:b2f351ce_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
