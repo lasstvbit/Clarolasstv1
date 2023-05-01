@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv HD
-https://8dacdaef11c6.entrypoint.cloud.wowza.com/app-0P5dS206/ngrp:c9db3cad_all/playlist.m3u8
+https://play.sfstream.net/chunk/1FD157C5D93D60D2F492F2125B6BABD118282E445B05686727E1BFFF1902E77954918DFC6F8E90B776751FB615EEDE0A45C8E97A90FBBD37CF1AEBE7D3BF9E6B/ACA14401E34EC5EB8D0056055ED5F509305DF35CDB7F1949B5E856C566B3A0DA3A4B71D60179A44D2946FC2C3D8420D5614207C112055E445288B7F2F7AF053BB45AE1E11699F24AFD073442F468D53502FB6D8B8DAC775FDA70B79FC1C8775DCC1BA295A720E68BFD18E3645AAFC14D.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
