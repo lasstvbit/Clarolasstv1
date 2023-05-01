@@ -12,7 +12,7 @@ https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CtcF3SGgcMgXTDOwN0B8zMM4qd5
 #EXTINF:-1 tvg-id="Tnt Esportes 5" tvg-name="Tnt Esportes 5" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 5
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fe4f4a4c73304a848aedff2873e89cff/chunklist_b4192000.m3u8?p=79&s=1682872153&e=1682872273&h=0e60ebb5f881f7d2d496803f732c4747
+https://play.prod.gcp.vix.services/abraham_pt/abraham_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Canal Variedades",Lasstv 2
 https://1aeccd6c54f4.entrypoint.cloud.wowza.com/app-1L64mqj8/ngrp:b2f351ce_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Tnt Esportes 7" tvg-name="Tnt Esportes 7" tvg-logo="https://tntsports.com.br/__export/1610630798389/sites/esporteinterativo/arte/apps/precomposed_20210114.png_285119621.png" group-title="Canais - Esportes",Tnt Esportes 7
