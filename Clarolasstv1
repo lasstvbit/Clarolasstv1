@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv HD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fe4f4a4c73304a848aedff2873e89cff/chunklist_b4192000.m3u8?p=79&s=1682872153&e=1682872273&h=0e60ebb5f881f7d2d496803f732c4747
+https://8dacdaef11c6.entrypoint.cloud.wowza.com/app-0P5dS206/ngrp:c9db3cad_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="PROGRAMAS 24 HORAS",24H TRAPALHOES
