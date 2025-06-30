@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Lasstv" tvg-logo="https://www.lasstv.com.br/wp-content/uploads/sites/22/2021/12/logotipo.png" group-title="Filmes e Series",Lasstv HD
-https://766f0001ab1a.entrypoint.cloud.wowza.com/app-Hv0MZ658/ngrp:591775dd_all/playlist.m3u8
+https://9e0d3596ac6a.entrypoint.cloud.wowza.com/app-1415w462/ngrp:54ddb809_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://Netflix.akamaihd.org/logos_pub/ch/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#### BRAZIL ####" tvg-logo="" group-title="►PREMIUM | QATAR WORLD CUP",#### BRAZIL ####
